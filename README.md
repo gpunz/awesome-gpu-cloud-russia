@@ -80,6 +80,7 @@
 | Modal | Serverless-запуск Python-кода на GPU | См. страницу цен | Не проверено | [цены](https://modal.com/pricing) |
 | Paperspace | GPU-машины и ноутбуки | См. сайт | Не проверено | [сайт](https://www.paperspace.com) |
 | Together AI | Инференс и дообучение моделей по API | См. страницу цен | Не проверено | [цены](https://www.together.ai/pricing) |
+| QIT | Model API + serverless/reserved GPU; liquid-cooled GPU containers | Посекундная (Pods) / см. [цены](https://qit.energy/pricing) | Не проверено | [цены](https://qit.energy/pricing) |
 | Lightning AI | Облачные студии с GPU, есть бесплатный уровень | См. сайт | Не проверено | [сайт](https://lightning.ai/) |
 
 ## Бесплатные варианты
