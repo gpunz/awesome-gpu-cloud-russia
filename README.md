@@ -6,7 +6,7 @@
 >
 > *English: a curated list of cloud GPU rental options available from Russia for AI/ML. English summary at the [bottom](#english-summary).*
 
-**Последнее обновление: 2026-10-19.**
+**Последнее обновление: 2026-11-11.**
 
 **Раскрытие интересов:** автор списка делает сервис [gpu.nz](https://gpu.nz). Он включён в список и помечен как «сервис автора списка». Остальные сервисы описаны по их собственным страницам; ссылки на источники приведены. Если вы нашли ошибку, откройте PR (см. [CONTRIBUTING.md](CONTRIBUTING.md)).
 
@@ -81,6 +81,7 @@
 | Paperspace | GPU-машины и ноутбуки | См. сайт | Не проверено | [сайт](https://www.paperspace.com) |
 | Together AI | Инференс и дообучение моделей по API | См. страницу цен | Не проверено | [цены](https://www.together.ai/pricing) |
 | Lightning AI | Облачные студии с GPU, есть бесплатный уровень | См. сайт | Не проверено | [сайт](https://lightning.ai/) |
+| CloudGPU (сервис автора PR) | Аренда RTX 4090/5090 для обучения, инференса и ComfyUI | См. каталог | Не проверено | [сайт и каталог](https://cloudgpu.app/) · [документация](https://cloudgpu.app/docs) |
 
 ## Бесплатные варианты
 
